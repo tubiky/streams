@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Droid_Vocal_3.mp3-39ee31c23835ba696c71b0d96ba5cd86.mp3str"
+
+[deps]
+
+source_file="res://sounds/Droid_Vocal_3.mp3"
+dest_files=[ "res://.import/Droid_Vocal_3.mp3-39ee31c23835ba696c71b0d96ba5cd86.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
